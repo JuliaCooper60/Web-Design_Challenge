@@ -33,13 +33,35 @@ body {
     margin-top: 10px;
     display: block;
     margin: auto;
-    border: 3px lightblue solid;
+    border: 3px;
 }
 
-
-
-/* .frontimage{
+.frontimage{
 float:left;
-width: 20px;
-height: 20px;
-} */
+width: 200px;
+height: 200px;
+}
+
+.img-thumbnail{
+width: 50%;
+}
+
+.navbar-brand{
+
+   font-size: 80px;
+   font-weight: bold;
+   color: lightseagreen;
+    }
+
+    h3 {
+        color: lightseagreen;
+        font-weight: bold;
+    }
+
+    h2 {
+        color: lightseagreen;
+        font-weight: bold;
+    }
+.spacing{
+    margin-left: 50%;
+}
