@@ -9,11 +9,15 @@ body {
     background-color: #b8bcc2;
     font-family: 'Quicksand';font-size: 20px;
 }
-
 .img-thumbnail {
     float: left;
     padding: 0 20px 20px 0;
-   }
+}
+.imageNav-photo {
+    Width:200px;
+    height: 150px;
+    border: 2px solid #4AAAA5; 
+}
 
 
 .text {
