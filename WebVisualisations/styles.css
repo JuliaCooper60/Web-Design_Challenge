@@ -13,17 +13,23 @@ body {
     float: left;
     padding: 0 20px 20px 0;
 }
+
 .imageNav-photo {
     Width:200px;
     height: 150px;
     border: 2px solid #4AAAA5; 
 }
 
-
+.imageNav-photo2 {
+    Width:200px;
+    height: 150px;
+}
 .text {
     float: right;
     padding: 0 0 20px 20px;
 }
+
+
 
 .col-md-4 {
     display: grid;
@@ -69,3 +75,7 @@ width: 50%;
 .spacing{
     margin-left: 50%;
 }
+
+#contact-info {
+    width: 60%;
+  }
