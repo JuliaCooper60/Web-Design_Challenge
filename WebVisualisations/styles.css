@@ -6,7 +6,7 @@ html {
 body {
     margin-bottom: 150px;
     /*  google colour picker */
-    background-color: #b8bcc2;
+    background-color: #eceef2;
     font-family: 'Quicksand';font-size: 20px;
 }
 .img-thumbnail {
@@ -15,13 +15,13 @@ body {
 }
 
 .imageNav-photo {
-    Width:200px;
+    Width:180px;
     height: 150px;
     border: 2px solid #4AAAA5; 
 }
 
 .imageNav-photo2 {
-    Width:200px;
+    Width:180px;
     height: 150px;
 }
 .text {
@@ -78,4 +78,10 @@ width: 50%;
 
 #contact-info {
     width: 60%;
+  }
+
+  .comparison-image{
+    float: left;
+    padding: 0 20px 20px 0;
+    width: 100%;
   }
